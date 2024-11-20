@@ -28,7 +28,7 @@ Imagine this situation: you are a Game Developer specializing in AI. Your task i
 There are several ways to use our product:
 
 1. Follow the link:  
-   [https://agreeable-grass-01071fa10.5.azurestaticapps.net/](https://agreeable-grass-01071fa10.5.azurestaticapps.net/)
+   [https://xi-team-project.vercel.app/](https://xi-team-project.vercel.app/)
 
 2. Download locally
 
